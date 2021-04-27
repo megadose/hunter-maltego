@@ -1,3 +1,5 @@
 maltego.EmailAddress#patrick@stripe.com
 maltego.Domain#intercom.io
+maltego.Domain#stripe.com
+maltego.Company#stripe
 maltego.Domain#asana.com
