@@ -1,0 +1,3 @@
+maltego.EmailAddress#patrick@stripe.com
+maltego.Domain#intercom.io
+maltego.Domain#asana.com
